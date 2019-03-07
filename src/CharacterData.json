@@ -1,0 +1,73 @@
+[{
+    "id": 1,
+    "name": "Bulbasaur",
+    "ref": "./images/pokemon/Bulbasaur.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Ivysaur",
+    "ref": "./images/pokemon/Ivysaur.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Venusaur",
+    "ref": "./images/pokemon/Venusaur.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "Charmander",
+    "ref": "./images/pokemon/Charmander.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Charmeleon",
+    "ref": "./images/pokemon/Charmeleon.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Charizard",
+    "ref": "./images/pokemon/Charizard.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Squirtle",
+    "ref": "./images/pokemon/Squirtle.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Wartortle",
+    "ref": "./images/pokemon/Wartortle.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "Blastoise",
+    "ref": "./images/pokemon/Blastoise.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "Pikachu",
+    "ref": "./images/pokemon/Pikachu.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "Psyduck",
+    "ref": "./images/pokemon/Psyduck.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "Primeape",
+    "ref": "./images/pokemon/Primeape.jpg",
+    "clicked": false
+  }
+]
